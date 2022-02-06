@@ -1,5 +1,5 @@
 # Snake-Game-With-Pygame-
 
-# Change the directory path of every sprite in order to not get any errors
+Change the directory path of every sprite in order to not get any errors
 
-# If you have any customizations go on update it
+If you have any customizations go on update it
